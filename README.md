@@ -26,3 +26,4 @@ Built a customer churn analysis project using SQL and Power BI. Performed data c
 - Service Count (Customer Engagement Indicator)
 - Monthly Charge Segmentation
 - Data Visualization using Power BI
+-<a href="">link</a>
