@@ -17,4 +17,4 @@ Built a customer churn analysis project using SQL and Power BI. Performed data c
 - Total Customers: 5.52k
 - Features: Demographics, Services, Billing, Contract Details, etc
 - Target Variable: Customer Status (Churned / Stayed)
-* Data was preprocessed and transformed using SQL for analysis
+#### Data was preprocessed and transformed using SQL for analysis
