@@ -18,6 +18,7 @@ Built a customer churn analysis project using SQL and Power BI. Performed data c
 - Features: Demographics, Services, Billing, Contract Details, etc
 - Target Variable: Customer Status (Churned / Stayed)
 #### Data was preprocessed and transformed using SQL for analysis
+-<a href="">link</a>
 # Approach & Methodology
 - Data Cleaning and Preparation using SQL
 #### Feature Engineering:
@@ -26,4 +27,4 @@ Built a customer churn analysis project using SQL and Power BI. Performed data c
 - Service Count (Customer Engagement Indicator)
 - Monthly Charge Segmentation
 - Data Visualization using Power BI
--<a href="">link</a>
+-<a href="https://github.com/Tusharnjaiswal/Telecom_Customer_Churn_Analysis/blob/main/Feature_Engineering_queries.sql">link</a>
