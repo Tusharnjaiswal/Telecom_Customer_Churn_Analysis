@@ -28,8 +28,8 @@ Built a customer churn analysis project using SQL and Power BI. Performed data c
 - Monthly Charge Segmentation
 - Data Visualization using Power BI
 -<a href="https://github.com/Tusharnjaiswal/Telecom_Customer_Churn_Analysis/blob/main/Feature_Engineering_queries.sql">link</a>
-# Insights & Recommendations
--<a href="https://github.com/Tusharnjaiswal/Telecom_Customer_Churn_Analysis/blob/main/Telecom_Churn_Presentation.pptx">link</a>
 # Dashboard 
 <img width="975" height="615" alt="Screenshot 2026-04-20 141942" src="https://github.com/user-attachments/assets/803d6055-093d-402e-acda-84a70bbb2356" />
+# Insights & Recommendations
+-<a href="https://github.com/Tusharnjaiswal/Telecom_Customer_Churn_Analysis/blob/main/Telecom_Churn_Presentation.pptx">link</a>
 
