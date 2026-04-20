@@ -12,4 +12,8 @@ Built a customer churn analysis project using SQL and Power BI. Performed data c
 - Identify key factors driving customer churn
 - Analyze customer behavior patterns
 - Provide actionable recommendations to improve retention
-# Dataset Description -<a href=
+# Dataset Description 
+-<a href="https://github.com/Tusharnjaiswal/Telecom_Customer_Churn_Analysis/blob/main/telecom_customer_churn.csv">dataset link</a>
+- Total Customers: 5.52k
+- Features: Demographics, Services, Billing, Contract Details, etc
+- Target Variable: Customer Status (Churned / Stayed)
