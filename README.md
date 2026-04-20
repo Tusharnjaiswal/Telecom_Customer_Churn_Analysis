@@ -12,3 +12,4 @@ Built a customer churn analysis project using SQL and Power BI. Performed data c
 - Identify key factors driving customer churn
 - Analyze customer behavior patterns
 - Provide actionable recommendations to improve retention
+# Dataset Description -<a href=
